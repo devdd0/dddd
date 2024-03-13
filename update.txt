@@ -1,8 +1,1 @@
-dDay Launcer version Number 1.0
-Mobile Fish version Number 1.2
-Metin2 Fish version Number --
-Royale Fish version Number --
-
-Update Notes
-Mobile Fish Updated March 10
-Mobile Fish Updated March 14
+version Number 1.0
